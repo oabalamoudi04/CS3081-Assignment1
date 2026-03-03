@@ -17,8 +17,29 @@ challenge 1: understanding how the minimax recursion works, in the beggening it 
 
 challenge 2: making sure the original board insid the result function was not modified and I solved this by using the copy.deepcopy() function to create a new board before making changes.
 
-#
+
+# Screenshots 
+
+Game Start Screen
+This screen shows the main menu where the player can choose to play as X or O
+![Game Start](game1.png)
+
+Playing as X
+This screenshot shows the game board after selecting Play as X
+![Play as X](game2.png)
+
+Tie
+This screenshot shows a tie game and the final result is a draw
+![Tie Game](game3.png)
+
+Playing as O
+This screenshot shows the game after selecting Play as O and the AI plays first as X 
+![Play as O](game4.png)
+
+X wins (AI)
+This screenshot shows the final board state where X wins on O and the win configuration is shown with a Play Again button
+![X Wins](game3.png)
 
 
-#Screenshots 
+
 
