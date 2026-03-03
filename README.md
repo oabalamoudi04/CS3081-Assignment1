@@ -42,12 +42,12 @@ This screenshot shows a tie game and the final result is a draw
 
 This screenshot shows the game after selecting Play as O and the AI plays first as X 
 
-![Play as O](game4.png)
+![Play as O](game5.png)
 
 # X wins (AI)
 
 This screenshot shows the final board state where X wins on O and the win configuration is shown with a Play Again button
-![X Wins](game3.png)
+![X Wins](game4.png)
 
 
 
